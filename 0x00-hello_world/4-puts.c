@@ -1,7 +1,9 @@
 #include<stdio.h>
 #include<string.h>
-/**output \"Programming is like building a multilingual puzzle
- * not using printf*/
+/**
+ * output \"Programming is like building a multilingual puzzle
+ * not using printf
+ * */
 int main(void)
 {
 
