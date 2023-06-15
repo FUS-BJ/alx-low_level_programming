@@ -1,9 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 /**
- * output \"Programming is like building a multilingual puzzle
- *
- * main - Entry point
+ * main - output \"Programming is like building a multilingual puzzle
  *
  * Return: Always 0 (Success)
  */
