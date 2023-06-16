@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include<stdio.h>
 /* main-for comparing if number is positif
  * return (0) always succes
  */
@@ -11,15 +12,15 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
 	{
-		printf("is positive")
+		printf ("is positive");
 	}
 	else if (n = 0)
 	{
-		printf("is zero")
+		printf ("is zero");
 	}
 	else 
 	{
-		pirintf("is negative")
+		printf ("is negative");
 	}		
 
 	return (0);
