@@ -2,7 +2,8 @@
 #include <time.h>
 #include<stdio.h>
 /*
- * main - is for comparing a random number whit 0
+ * main - is for assigning a random number to the variable n
+ * and print whether the number stored in the variable n is positive or negative.
  * Return: Always 0 (Success)
  */
 int main(void)
