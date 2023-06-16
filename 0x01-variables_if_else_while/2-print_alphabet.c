@@ -6,14 +6,9 @@
 int main(void)
 {
 char F;
-char R;
 for (F = 'a'; F <= 'z'; F++)
 {
 	putchar(F);
-}
-for (R= 'A'; R <= 'z'; R++)
-{
-	putchar(R);
 }
 putchar('\n');
 return (0);
