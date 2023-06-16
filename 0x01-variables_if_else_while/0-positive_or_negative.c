@@ -2,7 +2,7 @@
 #include <time.h>
 #include<stdio.h>
 /*
- * main - functiont whit if and printf to compare a variable whit 0
+ * main - Prints if number is positive, zero or negative
  *
  * Return: Always 0 (Success)
  */
