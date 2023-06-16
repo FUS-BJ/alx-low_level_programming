@@ -2,7 +2,7 @@
 #include <time.h>
 #include<stdio.h>
 /*
- * main-for comparing if number is positif
+ * main - for comparing if number is positif
  * Return: Always 0 (Success)
  */
 int main(void)
