@@ -6,20 +6,14 @@
 int main(void)
 {
 char F;
-char R;
-char D;
-for (F = 'a'; F <= 'd'; F++)
+for (F = 'a'; F <= 'z'; F++)
 {
+	if (F == 'q' || F == 'e')
+	{
+	continue;
+	}
 	putchar(F);
-}
-for (R = 'f'; R <= 'p'; R++)
-{
-	putchar(R);
-}
-for (D = 'r'; D <= 'z'; D++)
-{
-	putchar(D);
 }
 putchar('\n');
 return (0);
-}           
+}
