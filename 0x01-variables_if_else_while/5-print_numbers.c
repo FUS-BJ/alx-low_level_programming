@@ -7,11 +7,9 @@ int main(void)
 {
 	char a;
 
-	a = 0;
-	while (a < 10)
+	for (a = 0; a < 10; a++)
 {
 	putchar(a);
-	a++;
 }
 return (0);
 }
