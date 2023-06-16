@@ -2,8 +2,8 @@
 #include <time.h>
 #include<stdio.h>
 /*
- * main - functiont to assigne a random number and print if
- it is negative or positive
+ * main - functiont whit if and printf to compare a variable whit 0
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
