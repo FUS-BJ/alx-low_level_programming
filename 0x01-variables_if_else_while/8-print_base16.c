@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
  * main - print the 16 number in hex
- * return: always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
