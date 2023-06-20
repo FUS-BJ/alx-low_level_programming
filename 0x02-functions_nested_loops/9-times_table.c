@@ -18,8 +18,8 @@ void times_table(void)
 		num = a * b;
 		if (a == '0')
 		{
-			_putchar(b + '0')
-		}	
+			_putchar(b + '0');
+		}
 		if (num <= 9)
 		{
 			_putchar(' ');
