@@ -1,5 +1,5 @@
 #include"main.h"
-
+#include<stdio.h>
 /**
  * main - do  the sum of allthe multiples of 3 or 5
  *
