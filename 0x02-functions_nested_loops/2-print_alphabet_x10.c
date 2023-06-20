@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * print_alphabet - print the alphabet
+ * print_alphabet_x10 - print the alphabet
  * Return:void
  */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 	char C;
 	int a;
