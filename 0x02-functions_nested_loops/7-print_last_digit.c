@@ -4,7 +4,7 @@
  * @x: the number to find last digit of
  * Return: alway 0
  */
-int print_last_digit(int x)
+int print_last_digit(int r)
 {
 	int Lastdigit;
 
