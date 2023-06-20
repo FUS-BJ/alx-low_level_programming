@@ -16,7 +16,7 @@ for (a = 0; a <= A; a++)
 {
 	_putchar(C);
 }
-}
 _putchar('\n');
+}
 }
 
