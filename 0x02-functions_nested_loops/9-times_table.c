@@ -10,17 +10,16 @@ void times_table(void)
 
 	for (a = 0; a <= 9; a++)
 {
-	_putchar('0');
 	for (b = 0; b <= 9; b++)
 	{
 		_putchar(',');
 		_putchar(' ');
 		num = a * b;
-		if (a == '0')
+		if (b == '0')
 		{
-			_putchar(b + '0');
+			_putchar(num + '0');
 		}
-		if (num <= 9)
+		if (num <= 9 && b != 0)
 		{
 			_putchar(' ');
 			_putchar(num + '0');
