@@ -2,7 +2,7 @@
 #include <string.h>
 /**
  * _strcpy - copie the pointed string
- * @dest: string 
+ * @dest: string
  * @src: string
  * Return: dest
  */
