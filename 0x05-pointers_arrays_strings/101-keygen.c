@@ -12,5 +12,5 @@ int main(void)
 	srand(time(0));
 	N = rand();
 	printf("%i\n",N);
-	Return (0);
+	return (0);
 }
